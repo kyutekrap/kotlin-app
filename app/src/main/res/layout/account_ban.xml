@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_margin="20dp"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="계정 사용 중지됨"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="귀하의 계정이 자사의 정책을 위배하는 방식으로 악용된 것으로 확인되어 임시 조치되었습니다. 최대 3일 간 사용이 금지될 것이며 정도에 따라 전액 인출 및 1년 간 서비스 이용 금지 처분을 받을 수도 있습니다."
+            android:textSize="14sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:background="@drawable/main_buttons"
+            android:backgroundTint="#F5F5F5"
+            />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
