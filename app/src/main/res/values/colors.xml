@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#808080</color>
+
+    <color name="black_button_1">#000</color>
+    <color name="black_button_2">#222</color>
+
+    <color name="pie1">#FF3700B3</color>
+    <color name="pie2">#8594e4</color>
+    <color name="pie3">#6643b5</color>
+    <color name="pie4">#430f58</color>
+    <color name="pie5">#27296d</color>
+    <color name="pie6">#5e63b6</color>
+    <color name="pie7">#a393eb</color>
+    <color name="pie8">#FFBB86FC</color>
+
+    <color name="card1">#00b88a</color>
+    <color name="card2">#8594e4</color>
+
+    <color name="button_blue">#87CEFA</color>
+
+    <color name="selected_btn_background">#00001a</color>
+    <color name="selected_btn_text">#F9F9F9</color>
+    <color name="unselected_btn_background">#F9F9F9</color>
+    <color name="unselected_btn_text">#555555</color>
+
+    <color name="loading1">#005689</color>
+    <color name="loading2">#007cb9</color>
+    <color name="loading3">#0092ca</color>
+    <color name="loading4">#8dc6ff</color>
+</resources>
